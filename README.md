@@ -5,4 +5,4 @@ checking remote merge
 
 on local change
 
-changed by saketa second time
+changed by saketa second time, added new line
